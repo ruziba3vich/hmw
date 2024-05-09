@@ -1,0 +1,7 @@
+Uy vazifa
+O'zingizni database da large_dataset digan jadval yarating
+Ichida id va generated digan int type dagi ustunlar qoying
+generate_series digan postgresql function o'rqali 1 dan 10 milliongacha sonlarni large_dataset jadvaliga qoshing
+Go da usha jadvaldegi id va generated ustunlari structga scan qivoling
+Ushbu SQL ga context timeout 2 ga teng holda Go dan yuborilsin
+Qanaqa natijaga chiqti? Timeout ni kopaytirib yoki kamaytib korin. Qanaqa o'zgarish bo'ldi?
